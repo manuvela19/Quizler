@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C6484033-BEC3-4EE0-A4DB-83B094872464"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43597335-1908-4ED2-8974-A04FB2B70E95"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Quizler/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "updateUI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "43597335-1908-4ED2-8974-A04FB2B70E95 - 28151557fb8a676d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizler.ViewController.updateUI() -&gt; ()"
+                  moduleName = "Quizler"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manuvela/Desktop/Development/UdemyCourse/Quizler/Quizler/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "1208">
+               </Location>
+               <Location
+                  uuid = "43597335-1908-4ED2-8974-A04FB2B70E95 - 28151557fb8a67af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizler.ViewController.updateUI() -&gt; ()"
+                  moduleName = "Quizler"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manuvela/Desktop/Development/UdemyCourse/Quizler/Quizler/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "861">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
